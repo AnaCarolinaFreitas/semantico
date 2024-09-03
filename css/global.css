@@ -18,7 +18,6 @@ body  {
     text-align: center;
 }
 
-<<<<<<< HEAD
 .site-header {
     margin-bottom: 10px;
     font-size: 2rem;
@@ -28,9 +27,8 @@ body  {
     list-style: none;
     display: flex;
     justify-content: center;
-=======
+}
 .site-title {
     margin-bottom: 10px;
     font-size: 2rem;
->>>>>>> d4ebb402f6933e948034d9b04222c2a4367961c3
 }
