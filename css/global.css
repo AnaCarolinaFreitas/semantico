@@ -16,5 +16,9 @@ body  {
     color: rgb(248, 246, 246);
     padding: 1rem 0;
     text-align: center;
+}
 
+.site-title {
+    margin-bottom: 10px;
+    font-size: 2rem;
 }
