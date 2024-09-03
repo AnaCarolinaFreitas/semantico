@@ -16,5 +16,15 @@ body  {
     color: rgb(248, 246, 246);
     padding: 1rem 0;
     text-align: center;
+}
 
+.site-header {
+    margin-bottom: 10px;
+    font-size: 2rem;
+}
+
+.main-nav .nav-list{
+    list-style: none;
+    display: flex;
+    justify-content: center;
 }
