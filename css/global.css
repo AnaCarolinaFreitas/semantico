@@ -40,6 +40,7 @@ body  {
     text-decoration: none;
     font-weight: bold;
     transition: color 0.3s;
+    margin: 5px;
 }
 
 .main-nav .nav-link:hover{
@@ -143,4 +144,28 @@ sidebar-title{
     text-align: center;
     padding: 10px;
     margin-top: 20px;
+}
+
+.contact-info {
+    margin-bottom: 10px;
+}
+
+.autor-name,
+.autor-email {
+    margin-bottom: 5px;
+}
+
+.email-link {
+    color: #1e90ff;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+.email-link:hover{
+    color: #fff;
+}
+
+.footer-copy{
+    font-size: 0.9em;
+    color:#ccc;
 }
